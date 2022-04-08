@@ -8,7 +8,7 @@ Use your access key and secret access key to authenticate
 aws configure
 ```
 
-### Build your backend Image Locally and tag it .
+### Build your React project Locally and place it in front_app/build directory .
 
 ### Check your provisioning plan
 
