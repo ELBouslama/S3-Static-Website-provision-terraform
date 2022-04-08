@@ -1,9 +1,3 @@
-# Backend_Cli_TF_Configuration.
-
-## Architecture
-
-![Architecture](images/1_s347-nDO4uEIrlOCCHBzJg.png)
-
 ## Usage
 
 ### Set up the aws Cli
@@ -16,8 +10,6 @@ aws configure
 
 ### Build your backend Image Locally and tag it .
 
-
-
 ### Check your provisioning plan
 
 ```bash
@@ -29,4 +21,3 @@ terraform plan
 ```bash
 terraform apply
 ```
-
